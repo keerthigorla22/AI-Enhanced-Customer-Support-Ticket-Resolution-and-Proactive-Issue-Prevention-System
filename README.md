@@ -90,7 +90,7 @@ Ensure you have the following installed:
 ## Contributing
 Contributions are welcome! Follow these steps:
 1. Fork the repository.
-2. Create a new branch (`feature-xyz`).
+2. Create a new branch .
 3. Commit your changes.
 4. Push to your branch and submit a pull request.
 
