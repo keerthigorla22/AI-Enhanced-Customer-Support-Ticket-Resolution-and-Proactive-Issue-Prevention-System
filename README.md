@@ -1,5 +1,4 @@
 # AI-Enhanced-Customer-Support-Ticket-Resolution-and-Proactive-Issue-Prevention-System
-# AI-Enhanced Customer Support Ticket Resolution and Proactive Issue Prevention System
 
 ## Project Overview
 This project aims to develop an advanced AI-powered customer support system that leverages historical ticket data analysis to predict recurring issues and proactively address potential concerns. By integrating **LLMs like OpenAI GPT and Meta LLaMA** for natural language processing and sentiment analysis with **Google Sheets, Slack, and Email**, the system automates responses to common issues, escalates high-priority tickets based on sentiment and urgency, and provides preemptive solutions. This solution enhances customer support efficiency, reduces response times, and improves overall customer satisfaction by addressing issues before they escalate.
