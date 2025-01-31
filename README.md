@@ -1,4 +1,4 @@
-# AI-Enhanced-Customer-Support-Ticket-Resolution-and-Proactive-Issue-Prevention-System
+# AI-Enhanced Customer Support Ticket Resolution and Proactive Issue Prevention System
 
 ## Project Overview
 This project aims to develop an advanced AI-powered customer support system that leverages historical ticket data analysis to predict recurring issues and proactively address potential concerns. By integrating **LLMs like OpenAI GPT and Meta LLaMA** for natural language processing and sentiment analysis with **Google Sheets, Slack, and Email**, the system automates responses to common issues, escalates high-priority tickets based on sentiment and urgency, and provides preemptive solutions. This solution enhances customer support efficiency, reduces response times, and improves overall customer satisfaction by addressing issues before they escalate.
@@ -9,23 +9,6 @@ This project aims to develop an advanced AI-powered customer support system that
 - **Automated Response System**: Uses AI-generated content to resolve repetitive issues efficiently.
 - **Proactive Issue Prevention Dashboard**: Provides insights on potential future issues and suggests preemptive measures.
 - **Seamless Communication Integration**: Syncs with Google Sheets, Slack, and Email for streamlined issue resolution.
-
-## System Modules
-### 1. Historical Analysis and Recurrence Detection Engine
-- Analyzes past ticket data to identify recurring issues.
-- Generates automated preemptive solutions.
-
-### 2. Real-Time Sentiment Analysis and Escalation System
-- Monitors incoming tickets for urgency and sentiment shifts.
-- Automatically flags and routes high-priority tickets.
-
-### 3. Automated Response and Resolution Hub
-- Drafts AI-generated responses for common customer queries.
-- Integrates with Slack for seamless communication.
-
-### 4. Proactive Issue Prevention Dashboard
-- Provides insights on potential future issues using historical data.
-- Suggests proactive measures to prevent recurring problems.
 
 ## Installation and Setup
 ### Prerequisites
@@ -90,7 +73,7 @@ Ensure you have the following installed:
 ## Contributing
 Contributions are welcome! Follow these steps:
 1. Fork the repository.
-2. Create a new branch .
+2. Create a new branch (`feature-xyz`).
 3. Commit your changes.
 4. Push to your branch and submit a pull request.
 
