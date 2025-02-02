@@ -78,7 +78,7 @@ Contributions are welcome! Follow these steps:
 4. Push to your branch and submit a pull request.
 
 ## License
-This project is licensed under the MIT License. See `@LICENSE` for details.
+This project is licensed under the MIT License. 
 
 ## Contact
 For any queries or support, reach out to:
