@@ -73,12 +73,12 @@ Ensure you have the following installed:
 ## Contributing
 Contributions are welcome! Follow these steps:
 1. Fork the repository.
-2. Create a new branch (`feature-xyz`).
+2. Create a new branch 
 3. Commit your changes.
 4. Push to your branch and submit a pull request.
 
 ## License
-This project is licensed under the MIT License. See `LICENSE` for details.
+This project is licensed under the MIT License. See `@LICENSE` for details.
 
 ## Contact
 For any queries or support, reach out to:
