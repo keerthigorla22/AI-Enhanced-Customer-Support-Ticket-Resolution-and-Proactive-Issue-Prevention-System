@@ -54,13 +54,6 @@ Ensure you have the following installed:
 - **Automated responses** are generated for common queries and sent via Slack/Email.
 - A **dashboard** provides insights into potential future issues and suggests preventive actions.
 
-## Milestones & Evaluation
-| Milestone | Timeline | Deliverables |
-|-----------|----------|--------------|
-| **Milestone 1** | Weeks 1-2 | Project setup, tool training, and historical data collection |
-| **Milestone 2** | Weeks 3-4 | Recurrence Detection Engine, automated solutions for common issues |
-| **Milestone 3** | Weeks 5-6 | Sentiment Analysis, Automated Response Hub |
-| **Milestone 4** | Weeks 7-8 | Proactive Issue Prevention Dashboard, Slack/Email notifications |
 
 ## Technologies Used
 - **Python** (Backend Development)
